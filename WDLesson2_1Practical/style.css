@@ -10,7 +10,7 @@ selector{
 
 /* Challenge 1: Change color of the text for all the headings size 3 to blue */
 h3{
-  color blue;
+  color:blue;
 }
 /* Challenge 2: Change the size for the font for all headings size 1 to 60pt */
  h1{
