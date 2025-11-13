@@ -10,7 +10,9 @@ nav a{
 }
 
 /* Challenge 7: Make the font for all elements Arial */
-
+p{
+  font-style:arial
+}
 /* Challenge 8: Remove the underline for all hyperlinks */
 
 /* Challenge 9: Change the bottom border of the hyperlinks in the <nav> element to 2px solid black when the visitor hovers over it */
